@@ -26,6 +26,10 @@ body {
   margin: 0 auto;
 }
 
+.App table td {
+  padding: 3px;
+}
+
 .App form {
   text-align: center;
   margin: 20px auto;
